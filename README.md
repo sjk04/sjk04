@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjk04&label=Profile%20views&color=0e75b6&style=flat" alt="sjk04" /> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **LLM and working on building AI chatbots**
 
 - 📫 How to reach me **simonjkurian@gmail.com**
 
