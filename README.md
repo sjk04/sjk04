@@ -1,27 +1,34 @@
 <h1 align="center">Hi 👋, I'm Simon J Kurian</h1>
 <h3 align="center">AI Enthusiast and Web Development Aficionado — Always Learning, Creating, and Innovating</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sjk04&label=Profile%20views&color=0e75b6&style=flat" alt="sjk04" />
-</p>
+</div>
 
-- 🌱 I’m currently learning **LLM** and working on building **AI chatbots**
-- 🔧 Also learning the **full MERN stack**
-
-- 📫 How to reach me: **simonjkurian@gmail.com**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/simonjkdev/sjk04-assets/main/ai-dev-animation.gif" alt="Developer animation" width="300"/>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning **LLMs** and building **AI chatbots**
+- 🔧 Also learning the **full MERN stack**
+- 📫 Reach me at: **simonjkurian@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+
 <p align="left">
   <a href="https://linkedin.com/in/simon-j-kurian-15269826a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-j-kurian-15269826a" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -60,14 +67,16 @@
 
 ---
 
+### 📊 GitHub Stats:
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjk04&show_icons=true&locale=en&layout=compact" alt="sjk04" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjk04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjk04&show_icons=true&locale=en" alt="sjk04" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjk04&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjk04&" alt="sjk04" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjk04&" alt="GitHub Streak" />
 </p>
