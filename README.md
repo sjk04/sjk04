@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sjk04&label=Profile%20views&color=0e75b6&style=flat" alt="sjk04" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/simonjkdev/sjk04-assets/main/ai-dev-animation.gif" alt="Developer animation" width="300"/>
-</div>
+
 
 ---
 
